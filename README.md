@@ -42,6 +42,6 @@
 
 ### Connect with me:
 <p>
-  <a href="https://t.me/shdw_str1ke" target="_blank"><img src="https://img.shields.io/badge/Telegram-00000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://instagram.com/shdw.str1ke" target="_blank"><img src="https://img.shields.io/badge/Instagram-00000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://t.me/shdw_str1ke" target="_blank"><img src="https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
+  <a href="https://instagram.com/shdw.str1ke" target="_blank"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </p>
