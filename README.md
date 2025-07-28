@@ -22,7 +22,7 @@
 </ul>
 
 ### Learned Languages and Tools:
-<p>
+<p align="center">
    <a href="https://python.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   </a>&nbsp;
