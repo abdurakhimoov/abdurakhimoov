@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fff&center=true&width=600&lines=Hi%2C+there!+I'm+Abdurakhimov+Abdukadir;Welcome+to+my+GitHub+Profile!">
 </h1>
 
+<div align="center">
+
 ```text
   ___       __   __  _______  _______  ___      ___
  |   |     |  | |  ||   _   ||       ||   |    |   |
@@ -11,6 +13,9 @@
  |       | |   _   ||   _   ||       ||       ||       |
  |_______| |__| |__||__| |__||_______||_______||_______|
 ```
+
+</div>
+
 
 
 <h3 align="center">My GitHub Stats and Most Used Languages</h3>
