@@ -1,7 +1,7 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Salom%20👋%20Men%20Abdurahimov!&fontSize=35&color=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Backend%20Developer%20Abduqodir!&fontSize=35&color=ffffff" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Dasturchi;Python+lover🐍;Najot+Ta'lim+shogirdi;Doim+o‘sishda+harakat+qilaman🚀" />
