@@ -16,16 +16,14 @@
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visual-studio-code)
 
----
-
 ### 📊 GitHub statistikalarim:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurakhimoov&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakhimoov&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ### 📫 Muloqot uchun:
 - Telegram: [@shdw_str1ke](https://t.me/shdw_str1ke)
