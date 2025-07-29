@@ -46,7 +46,6 @@
   <a href="https://instagram.com/shdw.str1ke" target="_blank"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </p>
 
-<dev align="center">
   ```
             __     __        _         _          
             \ \   / /       | |       (_)         
@@ -58,4 +57,3 @@
                     Keep learning. Keep growing.
 
   ```
-</dev>
