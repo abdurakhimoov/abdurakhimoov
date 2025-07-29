@@ -8,8 +8,6 @@
 💻 Python backend dasturchi bo‘lish yo‘lida harakat qilyapman.  
 🚀 Hozirda FastAPI va Django frameworklarini o‘rganmoqdaman.  
 📚 Najot Ta'lim kurslarida o‘qiyapman.  
-🎯 Maqsadim: kuchli backend mutaxassisi bo‘lish.
-
 ---
 
 ### 🔧 Texnologiyalar:
@@ -30,8 +28,8 @@
 ---
 
 ### 📫 Muloqot uchun:
-- Telegram: [@username](https://t.me/username)
-- Email: youremail@example.com
+- Telegram: [@shdw_str1ke](https://t.me/shdw_str1ke)
+- Email: abdurahomovabduqodir96@gmail.com
 
 ---
 
