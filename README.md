@@ -2,22 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fff&center=true&width=600&lines=Hi%2C+there!+I'm+Abdurakhimov+Abdukadir;Welcome+to+my+GitHub+Profile!">
 </h1>
 
-
-```
-  __     __        _         _          
-  \ \   / /       | |       (_)         
-   \ \_/ /__  _   _| | ___    _ ___  ___ 
-    \   / _ \| | | | |/ _ \  | / __|/ _ \
-     | | (_) | |_| | |  __/  | \__ \  __/
-     |_|\___/ \__,_|_|\___|  |_|___/\___|
-                                         
-        Keep learning. Keep growing.
-
-```
-
-
-
-
 <h3 align="center">My GitHub Stats and Most Used Languages</h3>
 <br>
 <p align="center">
@@ -61,3 +45,15 @@
   <a href="https://t.me/shdw_str1ke" target="_blank"><img src="https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
   <a href="https://instagram.com/shdw.str1ke" target="_blank"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </p>
+
+```
+  __     __        _         _          
+  \ \   / /       | |       (_)         
+   \ \_/ /__  _   _| | ___    _ ___  ___ 
+    \   / _ \| | | | |/ _ \  | / __|/ _ \
+     | | (_) | |_| | |  __/  | \__ \  __/
+     |_|\___/ \__,_|_|\___|  |_|___/\___|
+                                         
+        Keep learning. Keep growing.
+
+```
