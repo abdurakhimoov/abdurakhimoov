@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fff&center=true&width=600&lines=Hi%2C+there!+I'm+Abdurakhimov+Abdukadir;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fff&center=true&width=600&lines=Hi%2C+there!+I'm+Abdurakhimov+Abduqodir;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h3 align="center">My GitHub Stats and Most Used Languages</h3>
