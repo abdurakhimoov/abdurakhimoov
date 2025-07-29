@@ -1,47 +1,44 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=fff&center=true&width=600&lines=Hi%2C+there!+I'm+Abdurakhimov+Abdukadir;Welcome+to+my+GitHub+Profile!">
-</h1>
-
-<h3 align="center">My GitHub Stats and Most Used Languages</h3>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurakhimoov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakhimoov&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
-</p>
+<h1 align="center">👋 Salom, men Abduqodirman!</h1>
+<h3 align="center">Python backend dasturchisi bo‘lish yo‘lida!</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdurakhimoov&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Lover;OOP+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Informations about me</h3>
+---
 
-<ul>
-  <li>I'm a Back-End Programmer</li>
-  <li>All my projects are available on <a href="https://github.com/abdurakhimoov?tab=repositories">Abdurakhimov's GitHub</a></li>
-  <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
-</ul>
+## 🧠 Men o‘rganayotgan texnologiyalar:
 
-### Learned Languages and Tools:
-<p>
-   <a href="https://python.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
-  </a>&nbsp;
-</p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code)
 
-### Connect with me:
-<p>
-  <a href="https://t.me/shdw_str1ke" target="_blank"><img src="https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
-  <a href="https://instagram.com/shdw.str1ke" target="_blank"><img src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-</p>
+---
+
+## 📌 Mening loyihalarim:
+- 🔢 [Toq/Juft aniqlovchi](https://github.com/username/odd_or_even)
+- 🧮 [Kalkulyator](https://github.com/username/calculator)
+- 🌐 [Portfolio saytim](https://username.github.io)
+
+---
+
+## 📊 GitHub statistikalarim:
+
+![Abduqodir's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Menga bog‘lanish:
+
+- 📧 Email: example@gmail.com  
+- 💬 Telegram: [@username](https://t.me/username)  
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+> “Har kuni ozgina o‘rganish — katta natijaga olib keladi!”
+
