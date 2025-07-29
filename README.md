@@ -1,6 +1,6 @@
 <!-- Profil banneri -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Assalomu%20alaykum!&fontSize=40&color=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20There!&fontSize=40&color=white" />
 </p>
 
 ### 👋 Salom! Men Abduqodir
