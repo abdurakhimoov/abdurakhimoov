@@ -42,7 +42,7 @@
 ### 📫 Contact Me:
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/shdw_str1ke" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:yourmail@gmail.com" target="_blank">
