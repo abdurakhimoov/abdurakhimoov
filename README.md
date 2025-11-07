@@ -45,7 +45,7 @@
   <a href="https://t.me/shdw_str1ke" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:abdurahimovabduqodir96@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
