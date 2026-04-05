@@ -28,17 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
----
-
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurakhimoov&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurakhimoov&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
----
-
 ### 📫 Contact Me:
 
 <p align="center">
